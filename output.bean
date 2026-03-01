@@ -1,0 +1,396 @@
+2026-01-01 * "None" "Cash reward allocation"
+    Assets:TradeRepublic:Personal        -15.00 EUR
+    NEEDS PERSONAL MODIFICATION             15.00 EUR
+            
+2026-01-01 * "None" "Interest payment"
+    Assets:TradeRepublic:Personal        -29.58 EUR
+    NEEDS PERSONAL MODIFICATION             29.58 EUR
+            
+2026-01-01 * "joybuy" "Joybuynull"
+    Assets:TradeRepublic:Joint        -36.51 EUR
+    Expenses:Shared:Groceries             36.51 EUR
+            
+2026-01-01 * "None" "DAV Kletter- und Boulderznull"
+    Assets:TradeRepublic:Personal        -8.90 EUR
+    NEEDS PERSONAL MODIFICATION             8.90 EUR
+            
+2026-01-01 * "None" "DAV Kletter- und Boulderznull"
+    Assets:TradeRepublic:Personal        -9.90 EUR
+    NEEDS PERSONAL MODIFICATION             9.90 EUR
+            
+2026-01-01 * "aldi" "ALDI SUeDnull"
+    Assets:TradeRepublic:Joint        -29.29 EUR
+    Expenses:Shared:Groceries             29.29 EUR
+            
+2026-01-02 * "MVG" "Sepa Direct Debit transfer to Muenchner Verkehrsge (DE33700202700000091600)"
+    Assets:TradeRepublic:Personal        -43.00 EUR
+    Expenses:Personal:PublicTransport             43.00 EUR
+            
+2026-01-02 * "Vodafone" "Sepa Direct Debit transfer to Vodafone GmbH (DE13380700590045335700)"
+    Assets:TradeRepublic:Joint        -52.98 EUR
+    Expenses:Shared:Utility:Internet             52.98 EUR
+            
+2026-01-02 * "None" "Outgoing transfer for Philipp MARKUS (DE68700400480765607700)"
+    Assets:TradeRepublic:Personal        -1460.00 EUR
+    NEEDS PERSONAL MODIFICATION             1460.00 EUR
+            
+2026-01-02 * "Invest" "Savings plan execution IE00B5BMR087 iShares VII plc - iShares Core S&P 500 UCITS ETF USD (Acc), quantity: 0.158881"
+    Assets:TradeRepublic:Personal        -100.00 EUR
+    Assets:Investment:ETF:SP500             100.00 EUR
+            
+2026-01-02 * "Invest" "Savings plan execution IE00B5BMR087 iShares VII plc - iShares Core S&P 500 UCITS ETF USD (Acc), quantity: 0.023832"
+    Assets:TradeRepublic:Personal        -15.00 EUR
+    Assets:Investment:ETF:SP500             15.00 EUR
+            
+2026-01-02 * "None" "Incoming transfer from Yunxiao Liu (LT423250081200505065)"
+    Assets:TradeRepublic:Personal        -43.81 EUR
+    NEEDS PERSONAL MODIFICATION             43.81 EUR
+            
+2026-01-03 * "None" "Outgoing transfer for Barmer (DE61370205000008300003)"
+    Assets:TradeRepublic:Personal        -36.01 EUR
+    NEEDS PERSONAL MODIFICATION             36.01 EUR
+            
+2026-01-04 * "lidl" "Lidl sagt Dankenull"
+    Assets:TradeRepublic:Joint        -2.82 EUR
+    Expenses:Shared:Groceries             2.82 EUR
+            
+2026-01-04 * "hit" "HIT 4085 Muenchen-Pasinull"
+    Assets:TradeRepublic:Joint        -12.24 EUR
+    Expenses:Shared:Groceries             12.24 EUR
+            
+2026-01-06 * "rewe" "REWE Garching Bgm.-Amon-Snull"
+    Assets:TradeRepublic:Joint        -16.34 EUR
+    Expenses:Shared:Groceries             16.34 EUR
+            
+2026-01-08 * "None" "Sepa Direct Debit transfer to Sektion Oberland des Deutschen Alpenvereins e.V. (DE33430609678233493502)"
+    Assets:TradeRepublic:Personal        -121.00 EUR
+    NEEDS PERSONAL MODIFICATION             121.00 EUR
+            
+2026-01-08 * "aldi" "ALDI SUeDnull"
+    Assets:TradeRepublic:Joint        -38.30 EUR
+    Expenses:Shared:Groceries             38.30 EUR
+            
+2026-01-09 * "Invest" "Savings plan execution IE00B5BMR087 iShares VII plc - iShares Core S&P 500 UCITS ETF USD (Acc), quantity: 0.156455"
+    Assets:TradeRepublic:Personal        -100.00 EUR
+    Assets:Investment:ETF:SP500             100.00 EUR
+            
+2026-01-11 * "lidl" "Lidl sagt Dankenull"
+    Assets:TradeRepublic:Joint        -1.72 EUR
+    Expenses:Shared:Groceries             1.72 EUR
+            
+2026-01-11 * "lidl" "Lidl sagt Dankenull"
+    Assets:TradeRepublic:Joint        -27.72 EUR
+    Expenses:Shared:Groceries             27.72 EUR
+            
+2026-01-12 * "None" "AMZN Mktp DE*Z798T43L4null"
+    Assets:TradeRepublic:Personal        -21.99 EUR
+    NEEDS PERSONAL MODIFICATION             21.99 EUR
+            
+2026-01-12 * "Open-AI" "OPENAI *CHATGPT SUBSCR, 20,00 $, exchange rate: 0,861, ECB rate: 0,8589589418, markup: 0,23762 %null"
+    Assets:TradeRepublic:Joint        -17.22 EUR
+    Expenses:Shared:Utility:Subscription             17.22 EUR
+            
+2026-01-13 * "e.on" "Sepa Direct Debit transfer to E.ON Energie Deutschland GmbH (DE37700202700032217249)"
+    Assets:TradeRepublic:Joint        -80.00 EUR
+    Expenses:Shared:Utility:Electricity             80.00 EUR
+            
+2026-01-14 * "aldi" "ALDI SUeDnull"
+    Assets:TradeRepublic:Joint        -25.34 EUR
+    Expenses:Shared:Groceries             25.34 EUR
+            
+2026-01-14 * "None" "Outgoing transfer for Technische Universität München (DE45700500003901190315)"
+    Assets:TradeRepublic:Personal        -97.00 EUR
+    NEEDS PERSONAL MODIFICATION             97.00 EUR
+            
+2026-01-15 * "Barmer" "Sepa Direct Debit transfer to BARMER (DE67300500000004000410)"
+    Assets:TradeRepublic:Personal        -151.42 EUR
+    Expenses:Personal:HealthInsurance             151.42 EUR
+            
+2026-01-16 * "studierendenwerk" "Studierendenwerk Muenchennull"
+    Assets:TradeRepublic:Joint        -8.24 EUR
+    Expenses:Shared:DineOut             8.24 EUR
+            
+2026-01-16 * "Invest" "Savings plan execution IE00B5BMR087 iShares VII plc - iShares Core S&P 500 UCITS ETF USD (Acc), quantity: 0.155894"
+    Assets:TradeRepublic:Personal        -100.00 EUR
+    Assets:Investment:ETF:SP500             100.00 EUR
+            
+2026-01-17 * "studierendenwerk" "Studierendenwerk Muenchennull"
+    Assets:TradeRepublic:Joint        -5.12 EUR
+    Expenses:Shared:DineOut             5.12 EUR
+            
+2026-01-18 * "rossman" "Rossmann 1018null"
+    Assets:TradeRepublic:Joint        -1.24 EUR
+    Expenses:Shared:Groceries             1.24 EUR
+            
+2026-01-18 * "lidl" "Lidl sagt Dankenull"
+    Assets:TradeRepublic:Joint        -2.08 EUR
+    Expenses:Shared:Groceries             2.08 EUR
+            
+2026-01-18 * "lidl" "Lidl sagt Dankenull"
+    Assets:TradeRepublic:Joint        -40.39 EUR
+    Expenses:Shared:Groceries             40.39 EUR
+            
+2026-01-18 * "None" "Incoming transfer from Yunjia Zhang (LT323250001646290089)"
+    Assets:TradeRepublic:Personal        -4000.00 EUR
+    NEEDS PERSONAL MODIFICATION             4000.00 EUR
+            
+2026-01-19 * "studierendenwerk" "Sepa Direct Debit transfer to Studierendenwerk München Oberbay ern Anstalt des öffentlichen Rechts (DE69370205000007820000)"
+    Assets:TradeRepublic:Joint        -20.00 EUR
+    Expenses:Shared:DineOut             20.00 EUR
+            
+2026-01-19 * "Vodafone" "Sepa Direct Debit transfer to Vodafone GmbH (DE04700202700015434515)"
+    Assets:TradeRepublic:Joint        -14.07 EUR
+    Expenses:Shared:Utility:Mobile             14.07 EUR
+            
+2026-01-19 * "None" "DNH*GODADDY#3995243511null"
+    Assets:TradeRepublic:Personal        -0.99 EUR
+    NEEDS PERSONAL MODIFICATION             0.99 EUR
+            
+2026-01-20 * "getsafe" "GETSAFE* HAUSRATnull"
+    Assets:TradeRepublic:Joint        -3.47 EUR
+    Expenses:Shared:Insurance             3.47 EUR
+            
+2026-01-20 * "None" "SPORTH. SCHUSTER GMBHnull"
+    Assets:TradeRepublic:Personal        -84.95 EUR
+    NEEDS PERSONAL MODIFICATION             84.95 EUR
+            
+2026-01-21 * "aldi" "ALDI SUeDnull"
+    Assets:TradeRepublic:Joint        -34.99 EUR
+    Expenses:Shared:Groceries             34.99 EUR
+            
+2026-01-23 * "Invest" "Savings plan execution IE00B5BMR087 iShares VII plc - iShares Core S&P 500 UCITS ETF USD (Acc), quantity: 0.158851"
+    Assets:TradeRepublic:Personal        -100.00 EUR
+    Assets:Investment:ETF:SP500             100.00 EUR
+            
+2026-01-25 * "eb muenchen" "EB Muenchen GmbHnull"
+    Assets:TradeRepublic:Joint        -12.00 EUR
+    Expenses:Shared:Sport             12.00 EUR
+            
+2026-01-25 * "rossman" "Rossmann 3613null"
+    Assets:TradeRepublic:Joint        -2.52 EUR
+    Expenses:Shared:Groceries             2.52 EUR
+            
+2026-01-25 * "hit" "HIT 4085 Muenchen-Pasinull"
+    Assets:TradeRepublic:Joint        -50.63 EUR
+    Expenses:Shared:Groceries             50.63 EUR
+            
+2026-01-25 * "dm-drogerie" "DM-Drogerie Marktnull"
+    Assets:TradeRepublic:Joint        -2.70 EUR
+    Expenses:Shared:Household:Supplies             2.70 EUR
+            
+2026-01-27 * "aldi" "ALDI SUeDnull"
+    Assets:TradeRepublic:Joint        -4.94 EUR
+    Expenses:Shared:Groceries             4.94 EUR
+            
+2026-01-27 * "aldi" "ALDI SUeDnull"
+    Assets:TradeRepublic:Joint        -20.11 EUR
+    Expenses:Shared:Groceries             20.11 EUR
+            
+2026-01-27 * "dm-drogerie" "DM.DE SAGT DANKEnull"
+    Assets:TradeRepublic:Joint        -60.08 EUR
+    Expenses:Shared:Household:Supplies             60.08 EUR
+            
+2026-01-27 * "Vodafone" "Vodafone GmbH CallYanull"
+    Assets:TradeRepublic:Joint        -20.00 EUR
+    Expenses:Shared:Utility:Mobile             20.00 EUR
+            
+2026-01-29 * "None" "MyProteinnull"
+    Assets:TradeRepublic:Personal        -57.19 EUR
+    NEEDS PERSONAL MODIFICATION             57.19 EUR
+            
+2026-01-29 * "aldi" "ALDI SUeDnull"
+    Assets:TradeRepublic:Joint        -16.95 EUR
+    Expenses:Shared:Groceries             16.95 EUR
+            
+2026-01-30 * "aldi" "ALDI SUeDnull"
+    Assets:TradeRepublic:Joint        -7.93 EUR
+    Expenses:Shared:Groceries             7.93 EUR
+            
+2026-01-31 * "None" "AMZN Mktp DEnull"
+    Assets:TradeRepublic:Personal        -21.99 EUR
+    NEEDS PERSONAL MODIFICATION             21.99 EUR
+            
+2026-02-01 * "None" "Interest payment"
+    Assets:TradeRepublic:Personal        -31.66 EUR
+    NEEDS PERSONAL MODIFICATION             31.66 EUR
+            
+2026-02-01 * "None" "Cash reward allocation"
+    Assets:TradeRepublic:Personal        -6.17 EUR
+    NEEDS PERSONAL MODIFICATION             6.17 EUR
+            
+2026-02-01 * "None" "Outgoing transfer for Philipp MARKUS (DE68700400480765607700)"
+    Assets:TradeRepublic:Personal        -1460.00 EUR
+    NEEDS PERSONAL MODIFICATION             1460.00 EUR
+            
+2026-02-01 * "aldi" "ALDI SUeDnull"
+    Assets:TradeRepublic:Joint        -17.15 EUR
+    Expenses:Shared:Groceries             17.15 EUR
+            
+2026-02-02 * "MVG" "Sepa Direct Debit transfer to Muenchner Verkehrsge (DE33700202700000091600)"
+    Assets:TradeRepublic:Personal        -43.00 EUR
+    Expenses:Personal:PublicTransport             43.00 EUR
+            
+2026-02-02 * "Vodafone" "Sepa Direct Debit transfer to Vodafone GmbH (DE13380700590045335700)"
+    Assets:TradeRepublic:Joint        -52.98 EUR
+    Expenses:Shared:Utility:Internet             52.98 EUR
+            
+2026-02-02 * "Invest" "Savings plan execution IE00B5BMR087 iShares VII plc - iShares Core S&P 500 UCITS ETF USD (Acc), quantity: 0.009795"
+    Assets:TradeRepublic:Personal        -6.17 EUR
+    Assets:Investment:ETF:SP500             6.17 EUR
+            
+2026-02-02 * "Invest" "Savings plan execution IE00B5BMR087 iShares VII plc - iShares Core S&P 500 UCITS ETF USD (Acc), quantity: 0.158458"
+    Assets:TradeRepublic:Personal        -100.00 EUR
+    Assets:Investment:ETF:SP500             100.00 EUR
+            
+2026-02-03 * "joybuy" "Joybuynull"
+    Assets:TradeRepublic:Joint        -34.87 EUR
+    Expenses:Shared:Groceries             34.87 EUR
+            
+2026-02-04 * "aldi" "ALDI SUeDnull"
+    Assets:TradeRepublic:Joint        -26.43 EUR
+    Expenses:Shared:Groceries             26.43 EUR
+            
+2026-02-05 * "penny" "Penny Thalkirchner Strassnull"
+    Assets:TradeRepublic:Joint        -0.66 EUR
+    Expenses:Shared:Groceries             0.66 EUR
+            
+2026-02-06 * "netto" "Netto Marken-Discountnull"
+    Assets:TradeRepublic:Joint        -10.56 EUR
+    Expenses:Shared:Groceries             10.56 EUR
+            
+2026-02-08 * "netto" "Netto Marken-Discount"
+    Assets:TradeRepublic:Joint        -2.77 EUR
+    Expenses:Shared:Groceries             2.77 EUR
+            
+2026-02-08 * "dav kletterzentrum" "DAV KLETTERZENTRUM THAL"
+    Assets:TradeRepublic:Joint        -13.90 EUR
+    Expenses:Shared:Sport             13.90 EUR
+            
+2026-02-08 * "asia feinkost" "21 ASIA FEINKOST"
+    Assets:TradeRepublic:Joint        -10.47 EUR
+    Expenses:Shared:Groceries             10.47 EUR
+            
+2026-02-08 * "hit" "HIT 4085 Muenchen-Pasi"
+    Assets:TradeRepublic:Joint        -21.49 EUR
+    Expenses:Shared:Groceries             21.49 EUR
+            
+2026-02-09 * "None" "Sepa Direct Debit transfer to SPORTVEREIN LOHHOF E.V. (DE33702501500140660804)"
+    Assets:TradeRepublic:Personal        -240.00 EUR
+    NEEDS PERSONAL MODIFICATION             240.00 EUR
+            
+2026-02-09 * "Invest" "Savings plan execution IE00B5BMR087 iShares VII plc - iShares Core S&P 500 UCITS ETF USD (Acc), quantity: 0.160158"
+    Assets:TradeRepublic:Personal        -100.00 EUR
+    Assets:Investment:ETF:SP500             100.00 EUR
+            
+2026-02-10 * "e.on" "Sepa Direct Debit transfer to E.ON Energie Deutschland GmbH (DE35440800500102724400)"
+    Assets:TradeRepublic:Joint        -80.00 EUR
+    Expenses:Shared:Utility:Electricity             80.00 EUR
+            
+2026-02-11 * "KAUFLAND" "KAUFLAND MUENCHEN MOOSACH"
+    Assets:TradeRepublic:Joint        -14.04 EUR
+    Expenses:Shared:Groceries             14.04 EUR
+            
+2026-02-12 * "Open-AI" "OPENAI *CHATGPT SUBSCR, 8,00 $, exchange rate: 0,845, ECB rate: 0,8403361345, markup: 0,55499999 %"
+    Assets:TradeRepublic:Joint        -6.76 EUR
+    Expenses:Shared:Utility:Subscription             6.76 EUR
+            
+2026-02-13 * "MCDONALD" "MCDONALD S DEUTSCHLAND"
+    Assets:TradeRepublic:Joint        -3.99 EUR
+    Expenses:Shared:DineOut             3.99 EUR
+            
+2026-02-14 * "aldi" "ALDI SUeD"
+    Assets:TradeRepublic:Joint        -12.16 EUR
+    Expenses:Shared:Groceries             12.16 EUR
+            
+2026-02-15 * "lidl" "Lidl sagt Danke"
+    Assets:TradeRepublic:Joint        -2.80 EUR
+    Expenses:Shared:Groceries             2.80 EUR
+            
+2026-02-15 * "hit" "HIT 4085 Muenchen-Pasi"
+    Assets:TradeRepublic:Joint        -33.28 EUR
+    Expenses:Shared:Groceries             33.28 EUR
+            
+2026-02-16 * "Barmer" "Sepa Direct Debit transfer to BARMER (DE67300500000004000410)"
+    Assets:TradeRepublic:Personal        -151.42 EUR
+    Expenses:Personal:HealthInsurance             151.42 EUR
+            
+2026-02-16 * "Invest" "Savings plan execution IE00B5BMR087 iShares VII plc - iShares Core S&P 500 UCITS ETF USD (Acc), quantity: 0.161739"
+    Assets:TradeRepublic:Personal        -100.00 EUR
+    Assets:Investment:ETF:SP500             100.00 EUR
+            
+2026-02-18 * "lidl" "Lidl sagt Danke"
+    Assets:TradeRepublic:Joint        -3.20 EUR
+    Expenses:Shared:Groceries             3.20 EUR
+            
+2026-02-18 * "ha vietnamese" "Ha Vietnamese Cuisine"
+    Assets:TradeRepublic:Joint        -59.70 EUR
+    Expenses:Shared:DineOut             59.70 EUR
+            
+2026-02-18 * "burger king" "BURGER KING 15620 SOT"
+    Assets:TradeRepublic:Joint        -15.98 EUR
+    Expenses:Shared:DineOut             15.98 EUR
+            
+2026-02-18 * "None" "Outgoing transfer for Tingyu Zhang (DE32100101784613487993)"
+    Assets:TradeRepublic:Personal        -21.85 EUR
+    NEEDS PERSONAL MODIFICATION             21.85 EUR
+            
+2026-02-19 * "Vodafone" "Sepa Direct Debit transfer to Vodafone GmbH (DE04700202700015434515)"
+    Assets:TradeRepublic:Joint        -13.99 EUR
+    Expenses:Shared:Utility:Mobile             13.99 EUR
+            
+2026-02-20 * "joybuy" "Joybuy"
+    Assets:TradeRepublic:Joint        -105.52 EUR
+    Expenses:Shared:Groceries             105.52 EUR
+            
+2026-02-20 * "getsafe" "GETSAFE* HAUSRAT"
+    Assets:TradeRepublic:Joint        -3.47 EUR
+    Expenses:Shared:Insurance             3.47 EUR
+            
+2026-02-21 * "aldi" "ALDI SUeD"
+    Assets:TradeRepublic:Joint        -11.22 EUR
+    Expenses:Shared:Groceries             11.22 EUR
+            
+2026-02-22 * "netto" "Netto Marken-Discount"
+    Assets:TradeRepublic:Joint        -2.62 EUR
+    Expenses:Shared:Groceries             2.62 EUR
+            
+2026-02-22 * "dav kletterzentrum" "DAV KLETTERZENTRUM THAL"
+    Assets:TradeRepublic:Joint        -13.90 EUR
+    Expenses:Shared:Sport             13.90 EUR
+            
+2026-02-22 * "asia feinkost" "21 ASIA FEINKOST"
+    Assets:TradeRepublic:Joint        -27.54 EUR
+    Expenses:Shared:Groceries             27.54 EUR
+            
+2026-02-22 * "None" "DB Vertrieb GmbH"
+    Assets:TradeRepublic:Personal        -9.99 EUR
+    NEEDS PERSONAL MODIFICATION             9.99 EUR
+            
+2026-02-23 * "None" "DB Vertrieb GmbH"
+    Assets:TradeRepublic:Personal        -89.96 EUR
+    NEEDS PERSONAL MODIFICATION             89.96 EUR
+            
+2026-02-23 * "Invest" "Savings plan execution IE00B5BMR087 iShares VII plc - iShares Core S&P 500 UCITS ETF USD (Acc), quantity: 0.159586"
+    Assets:TradeRepublic:Personal        -100.00 EUR
+    Assets:Investment:ETF:SP500             100.00 EUR
+            
+2026-02-24 * "aldi" "ALDI SUeD"
+    Assets:TradeRepublic:Joint        -21.95 EUR
+    Expenses:Shared:Groceries             21.95 EUR
+            
+2026-02-26 * "Pizza and More" "Pizza and More"
+    Assets:TradeRepublic:Joint        -10.00 EUR
+    Expenses:Shared:DineOut             10.00 EUR
+            
+2026-02-26 * "lidl" "Lidl sagt Danke"
+    Assets:TradeRepublic:Joint        -1.77 EUR
+    Expenses:Shared:Groceries             1.77 EUR
+            
+2026-02-26 * "lidl" "Lidl sagt Danke"
+    Assets:TradeRepublic:Joint        -30.40 EUR
+    Expenses:Shared:Groceries             30.40 EUR
+            
+2026-02-27 * "dm-drogerie" "DM DROGERIE SAGT DANKE"
+    Assets:TradeRepublic:Joint        -1.70 EUR
+    Expenses:Shared:Household:Supplies             1.70 EUR
+            
