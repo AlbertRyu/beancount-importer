@@ -1,6 +1,5 @@
 from models import Transaction
 from datetime import datetime
-import pdfplumber
 
 COLUMNS = [
     (74,  100, 'datum'),
@@ -12,10 +11,6 @@ COLUMNS = [
 ]
 
 def parse_the_pdf(file_path):
-    # with pdfplumber.open('pdfs/statement.pdf') as pdf:
-    #     page = pdf.pages[0]  # 第7页
-
-    #     transaction_list = []
     pass
         
 
@@ -37,7 +32,6 @@ def group_words_by_row(words, tolerance=20):
     
     for word in sorted(words, key=lambda w: w['top']):
         if not (word['top'] > 159 and word['top'] < 750): # Page middle
-            #print(f'Skip {word['text']}')
             continue
         # 看这个词是否属于已有的某一行
         placed = False
@@ -64,7 +58,6 @@ def get_column(x0):
 
 def parse_row(row_words):
     """一行词 → 一个 Transaction（或 None 如果不是交易行）"""
-    #print(''.join([w['text'] for w in row_words]))
     # 按列分组
     columns = {'datum': [], 'typ': [], 'beschreibung': [], 
                'eingang': [], 'ausgang': [], 'saldo': []}

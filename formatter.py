@@ -88,7 +88,6 @@ RULES = [
         "Expenses:Shared:Sport"),
 ]
 
-
 def get_account(t):
     for match, payee, from_account, to_account in RULES:
         if match(t):

@@ -2,8 +2,6 @@ import pdfplumber
 from parser import parse_the_page
 from formatter import format_transaction
 
-# x_tolerance=1 for KartentransakationLidl is detected to be one word in the default value of 3
-
 def main():
     print("Hello from beancount-importer!")
 
@@ -12,12 +10,12 @@ def main():
         transactions = []
         for page_num, page in enumerate(pdf.pages):
             words = page.extract_words(x_tolerance=1)
-            
+            # x_tolerance=1 for KartentransakationLidl is detected to be one word in the default value of 3
+
             # 检查这一页是否有 BARMITTELÜBERSICHT
             barmittel = next((w for w in words if w['text'] == 'BARMITTELÜBERSICHT'), None)
             
             if barmittel:
-                print(f'bramittle detected!, locate at {barmittel['top']}')
                 words = [w for w in words if w['bottom'] < barmittel['top']-10]
             
             if page_num == 0:
@@ -31,9 +29,6 @@ def main():
 
             if barmittel:
                 break
-
-        # for t in transactions:
-        #     print(format_transaction(t))
 
         with open("output.bean", "w", encoding="utf-8") as f:
             for t in transactions:
