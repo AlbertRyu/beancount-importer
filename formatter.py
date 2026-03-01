@@ -86,8 +86,6 @@ RULES = [
      lambda t: next(store for store in BOULDER_GYM if store.lower() in t.description.lower()),
         DEFAULT_JOINT,
         "Expenses:Shared:Sport"),
-
-
 ]
 
 

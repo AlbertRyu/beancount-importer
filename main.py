@@ -2,7 +2,6 @@ import pdfplumber
 from parser import parse_the_page
 from formatter import format_transaction
 
-
 # x_tolerance=1 for KartentransakationLidl is detected to be one word in the default value of 3
 
 def main():
