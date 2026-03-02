@@ -1,9 +1,12 @@
 [project]
 name = "beancount-importer"
 version = "0.1.0"
-description = "Add your description here"
+description = "Convert Trade Republic PDF statements into Beancount entries"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "pdfplumber==0.11.9",
 ]
+
+[project.scripts]
+beancount-importer = "main:main"
