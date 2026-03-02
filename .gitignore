@@ -11,3 +11,9 @@ wheels/
 .venv
 
 pdfs/
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
